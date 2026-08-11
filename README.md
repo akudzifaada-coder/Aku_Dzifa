@@ -13,11 +13,11 @@
 ### 🚀 About Me
 
 - 🎓 Final-year student, currently in a coding bootcamp sharpening my web & software dev skills
-- 🤖 Building a full-stack **AI chatbot for predictive maintenance** as my capstone — Streamlit, FastAPI, PostgreSQL, LangChain/FAISS (RAG), GPT-4o mini, Whisper STT, Azure TTS, and ML models (XGBoost, Random Forest, Isolation Forest)
+- 🤖 Building a full-stack **AI chatbot for predictive maintenance** as my final year project — Streamlit, FastAPI, PostgreSQL, LangChain/FAISS (RAG), GPT-4o mini, Whisper STT, Azure TTS, and ML models (XGBoost, Random Forest, Isolation Forest)
 - 🌐 Learning modern web dev fundamentals — JS, React, REST APIs
 - 🍦 Run **Nammy Yoghurt**, a small yoghurt business (banana, vanilla & strawberry — bottles, parfaits, Greek yoghurt)
 - 💡 Interested in where AI meets real, practical products
-- 📫 Reach me at: your.email@example.com
+- 📫 Reach me at: akudzifaada@example.com
 
 ---
 
