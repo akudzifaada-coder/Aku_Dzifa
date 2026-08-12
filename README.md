@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Dzifa 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=550&lines=Final-year+CS+student;AI+%2B+Web+Dev+enthusiast;Building+an+AI+chatbot+for+predictive+maintenance;Also+I+make+yoghurt+%F0%9F%98%84" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=550&lines=Final-year+Electrical/Electronics Engineering+student;AI+%2B+Web+Dev+enthusiast;Building+an+AI+chatbot+for+predictive+maintenance;Also+I+make+yoghurt+%F0%9F%98%84" alt="Typing SVG" />
 </p>
 
 <p align="center">
